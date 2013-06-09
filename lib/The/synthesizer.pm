@@ -19,7 +19,7 @@ definitely wanted to become a musician. It was almost impossible because
 the dream was so big. I didn't see any chance because I was living in a
 little town; I was studying. And when I finally broke away from school and
 became a musician, I thought, "Well, now I may have a little bit of a
-chance," Because all I really wanted to do is music – and not only play
+chance," Because all I really wanted to do is music - and not only play
 music, But compose music.
 
 At that time, in Germany, in '69-'70, they had already discotheques. So, I
@@ -30,7 +30,7 @@ years to survive in the beginning.
 
 I wanted to do a album with the sound of the '50s, the sound of the '60s,
 of the '70s and then have a sound of the future. And I said, "Wait a
-second...I know the synthesizer – why don't I use the synthesizer which is
+second...I know the synthesizer - why don't I use the synthesizer which is
 the sound of the future?" And I didn't have any idea what to do, but I
 knew I needed a click so we put a click on the 24 track which then was
 synched to the Moog Modular. I knew that it could be a sound of the future
@@ -44,7 +44,7 @@ there was no preconception of what to do.
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub import {
   my $class = shift;
