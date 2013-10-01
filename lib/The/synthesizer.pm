@@ -44,7 +44,7 @@ there was no preconception of what to do.
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.0201';
 
 sub import {
   my $class = shift;

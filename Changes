@@ -1,5 +1,8 @@
 Revision history for The-synthesizer
 
+0.0201   Tue Oct  1 12:46:46 2013
+       * Add MYMETA* to MANIFEST.SKIP
+
 0.02     Sun Jun  9 12:04:03 2013
        * Remove Non-ASCII character from POD
 
